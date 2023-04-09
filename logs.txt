@@ -1,0 +1,36 @@
+commit 2a04365c100e42418a08a0fdb0b984b93df90b48 (HEAD -> master, origin/bug3, bug3)
+Author: harunn2002 <harun.ajruloski@students.finki.ukim.mk>
+Date:   Sun Apr 9 05:18:47 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 92fd210094172555c68864a945668b4b3838d987
+Merge: 6c0865a b365ec4
+Author: harunn2002 <harun.ajruloski@students.finki.ukim.mk>
+Date:   Sun Apr 9 05:27:30 2023 +0200
+
+    Merge branch 'bug2'
+
+commit b365ec4c341b212a76bc4c6d6841fe4064fa74a5 (origin/bug2, bug2)
+Author: harunn2002 <harun.ajruloski@students.finki.ukim.mk>
+Date:   Sun Apr 9 05:15:08 2023 +0200
+
+    Fix worng condition in filterOddNumbers
+
+commit 6c0865a0306edaed63db9e8638de80002513b369 (origin/bug1, bug1)
+Author: harunn2002 <harun.ajruloski@students.finki.ukim.mk>
+Date:   Sun Apr 9 05:10:31 2023 +0200
+
+    Fix wrong loop for reading
+
+commit f69bf5e949d19171b96f17305628d55321fc1c47
+Author: harunn2002 <harun.ajruloski@students.finki.ukim.mk>
+Date:   Sun Apr 9 03:40:04 2023 +0200
+
+    Add java class
+
+commit 6ec6ba556104f00a3fb92c7eeb5afd79d1332e60
+Author: harunn2002 <harun.ajruloski@students.finki.ukim.mk>
+Date:   Sun Apr 9 03:29:40 2023 +0200
+
+    Initial commit
