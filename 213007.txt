@@ -1,0 +1,2 @@
+git init
+git remote add origin https://github.com/harunn2002/SI_2023_lab1_213007.git
